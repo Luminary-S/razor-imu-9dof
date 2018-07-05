@@ -1,3 +1,16 @@
+Update by me
+------------------------
+Use arduino code from : 
+https://codeload.github.com/sparkfun/9DOF_Razor_IMU/zip/V_3.0
+
+it suits Razor 14001, if older version, please use 
+https://codeload.github.com/sparkfun/9DOF_Razor_IMU/zip/V_2.0
+
+python-visual dowsn't work well in python 2.7.
+
+
+
+
 Official ROS Documentation
 --------------------------
 A much more extensive and standard ROS-style version of this documentation can be found on the ROS wiki at:
