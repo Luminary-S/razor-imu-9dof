@@ -25,6 +25,11 @@ If you want to run it, you should follow the following steps:
 4) revise the code, In its default configuration, ``razor_imu_9dof`` expects a yaml config file ``my_razor.yaml`` 
 
 
+Camera
+------------------------
+download the qrcode from (you can change the size of the qrcode by edit the size in the link):
+https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=Example
+
 
 Official ROS Documentation
 --------------------------
