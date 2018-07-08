@@ -1,3 +1,6 @@
+
+
+
 Update by me
 ------------------------
 Use arduino code from : 
@@ -8,6 +11,18 @@ https://github.com/sparkfun/9DOF_Razor_IMU/releases/tag/V_2.0
 
 python-visual dowsn't work well in python 2.7.
 
+
+If you want to run it, you should follow the following steps:
+1, upload the firmware into arduino of Razor-imu-9dof, just use the code from sparkfun of 
+	9DOF_Razor_IMU-V_3.0_/Firmware/_9DOF_Razor_M0_Firmware/_9DOF_Razor_M0_Firmware.ino
+2,if you can not upload it in ubuntu, maybe it is the permission problem of /dev/ttyACM0,
+   1, check you permission with   
+         ll /dev/ttyACM0
+      then, follow the blog:
+         http://blog.sina.com.cn/s/blog_73000beb0102uzbu.html
+   2, sign out your ubuntu and sign in again
+3, download sudo apt-get install python-visual
+4, revise the code, In its default configuration, ``razor_imu_9dof`` expects a yaml config file ``my_razor.yaml`` 
 
 
 
