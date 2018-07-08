@@ -1,10 +1,10 @@
 Update by me
 ------------------------
 Use arduino code from : 
-https://codeload.github.com/sparkfun/9DOF_Razor_IMU/zip/V_3.0
+https://github.com/sparkfun/9DOF_Razor_IMU/releases/tag/V_3.0
 
 it suits Razor 14001, if older version, please use 
-https://codeload.github.com/sparkfun/9DOF_Razor_IMU/zip/V_2.0
+https://github.com/sparkfun/9DOF_Razor_IMU/releases/tag/V_2.0
 
 python-visual dowsn't work well in python 2.7.
 
